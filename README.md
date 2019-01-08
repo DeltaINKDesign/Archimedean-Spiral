@@ -1,14 +1,6 @@
 # Archimedean-Spiral
 The Archimedean spiral creator.
-Options:
--Draw with a circle
--Draw with a square
--Random color
--Line thickness
--Drawing speed
--Stop
--Pause
--Resume
+Options:Draw with a circle, Draw with a square, Random color, Line thickness, Drawing speed, Stop, Pause, Resume
 
 
 Screenshots:
